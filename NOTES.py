@@ -108,5 +108,7 @@ notes = {
     "cations": "positive ions",
     "anions": "negative ions",
     "what causes magnetism?": "pockets of electrons",
-    "san andres fault": "strike-slip fault -> pacific plate and north american plate"
+    "san andres fault": "strike-slip fault -> pacific plate and north american plate",
+    "convex lens": "treats farsightedness",
+    "concave lens": "treats nearsightedness",
 }
