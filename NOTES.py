@@ -1,4 +1,4 @@
-notes = {
+"""
     "permanent magnet materials": "iron, nickel, cobalt",
     "cause of magnetism": "moving electric charges/electrons",
     "compass": "earth is giant magnet; north-seeking end of compass needle points to magnetic north pole",
@@ -111,4 +111,4 @@ notes = {
     "san andres fault": "strike-slip fault -> pacific plate and north american plate",
     "convex lens": "treats farsightedness",
     "concave lens": "treats nearsightedness",
-}
+"""
