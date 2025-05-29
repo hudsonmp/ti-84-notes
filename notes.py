@@ -107,6 +107,6 @@ notes = {
     "quark flavors": "up, down, charm, strange, top, bottom",
     "cations": "positive ions",
     "anions": "negative ions",
-    "what causes magnetism?": "pockets of electrons"
-    "san andres fault": ""
+    "what causes magnetism?": "pockets of electrons",
+    "san andres fault": "strike-slip fault -> pacific plate and north american plate"
 }
