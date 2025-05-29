@@ -6,8 +6,15 @@ CALCULATOR_WIDTH = 26
 
 key = input("Search term: ")
 
-if key in notes:
-    note_content = notes[key]
+# Check for exact match (case-insensitive)
+exact_match_key = None
+for note_key in notes:
+    if note_key.lower() == key.lower():
+        exact_match_key = note_key
+        break
+
+if exact_match_key:
+    note_content = notes[exact_match_key]
     # Wrap the note content for better display on the calculator screen
     for line in textwrap.wrap(note_content, width=CALCULATOR_WIDTH):
         print(line)
