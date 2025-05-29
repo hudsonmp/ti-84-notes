@@ -1,5 +1,5 @@
 import textwrap
-from notes import notes
+from NOTES import notes
 
 # TI-84 CE Python screen width is 26 characters
 CALCULATOR_WIDTH = 26
